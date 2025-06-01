@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Márgenes Estándar -->
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_xlarge">32dp</dimen>
+
+    <!-- Paddings Estándar -->
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+
+    <!-- Tamaños Específicos -->
+    <dimen name="image_max_width">300dp</dimen>
+    <dimen name="padding_button">12dp</dimen> <!-- Padding vertical para botones -->
+    <dimen name="padding_card">16dp</dimen>   <!-- Padding interno para las CardViews -->
+    <dimen name="card_max_width">400dp</dimen> <!-- Ancho máximo para tarjetas en pantallas grandes -->
+
+    <!-- Para fragment_dashboard.xml -->
+    <!-- 'icon_size' como porcentaje no es una 'dimen' directa.
+         Si usas app:layout_constraintWidth_percent, el valor es un float, ej: 0.2 (para 20%)
+         Si quieres definir un tamaño fijo para el icono, puedes hacerlo así: -->
+    <dimen name="dashboard_icon_size">80dp</dimen>
+
+    <!-- Para fragment_notifications.xml -->
+    <!-- 'icon_size_percent' como porcentaje no es una 'dimen' directa.
+         Si usas app:layout_constraintWidth_percent, el valor es un float.
+         Si quieres definir un tamaño fijo para el icono, puedes hacerlo así: -->
+    <dimen name="notification_icon_width">96dp</dimen>
+    <dimen name="notification_icon_height">96dp</dimen>
+</resources>

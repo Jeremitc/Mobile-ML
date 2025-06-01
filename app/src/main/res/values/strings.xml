@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Clasima</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- ... Dashboard ... -->
+    <string name="dashboard_welcome_title">¡Bienvenido/a a Clasima</string> <!-- Cambia ClassifyApp por el nombre de tu app -->
+    <string name="dashboard_intro_text">Esta aplicación utiliza el poder de TensorFlow Lite para identificar objetos comunes de tu entorno.</string>
+    <string name="dashboard_tensorflow_title">¿Qué es TensorFlow Lite?</string>
+    <string name="dashboard_tensorflow_desc">TensorFlow Lite es un conjunto de herramientas que permite a los desarrolladores ejecutar modelos de aprendizaje automático en dispositivos móviles, embebidos y de IoT. Es rápido, eficiente y perfecto para aplicaciones como esta.</string>
+    <string name="dashboard_model_title">Nuestro Modelo Clasificador</string>
+    <string name="dashboard_model_desc">Hemos entrenado un modelo especializado para reconocer objetos de escritorio como lapiceros, cuadernos y ganchos. ¡Pruébalo en la pestaña \"Home\"!</string>
+    <string name="dashboard_tip">Consejo: Para mejores resultados, asegúrate de que el objeto esté bien iluminado y centrado en la imagen.</string>
+    <!-- ... notifications ... -->
+    <string name="notifications_title">Notificaciones</string>
+    <string name="notifications_coming_soon_header">¡Próximamente!</string>
+    <string name="notifications_coming_soon_message">Estamos trabajando para traerte un sistema de notificaciones increíble. Este servicio estará disponible muy pronto.</string>
+    <string name="notifications_stay_tuned">¡Mantente atento a las actualizaciones!</string>
+</resources>

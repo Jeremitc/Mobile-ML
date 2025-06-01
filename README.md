@@ -47,12 +47,11 @@
 
 ## 🖼️ Vistazo a la Aplicación (Screenshots)
 
-*(¡Añade aquí tus screenshots! Sube las imágenes a una carpeta `screenshots` en tu repositorio y enlaza a ellas.)*
 
 **Ejemplo:**
 <p align="center">
   <img src="screenshots/home_screen.png" width="250" alt="Pantalla Principal">
-  <img src="screenshots/dashboard_screen.png" width="250" alt="Pantalla Dashboard">
+  <img src="screenshots/dashboard_screen.PNG" width="250" alt="Pantalla Dashboard">
 </p>
 
 ## 🚀 Cómo Empezar / Configuración del Proyecto
@@ -104,7 +103,7 @@ El `HomeViewModel` maneja la carga del modelo TFLite y la inferencia:
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles. (Crea este archivo en tu repo).
+Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles. 
 
 **Desarrollado por Jeremi TC** ([https://github.com/Jeremitc](https://github.com/Jeremitc))
 
